@@ -4,5 +4,6 @@ David Hubert chronometrics@gmail.com
 
 Week 1 Goal:
 Learn the basics of Ruby programming language. First 3 chapters.  
+Find parts for tantillus 3d printer
 
 sketch up goals? 
