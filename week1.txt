@@ -7,4 +7,9 @@ Learn the basics of Ruby programming language. First few chapters.
 Find parts for tantillus 3d printer
 print off parts for new 3d printer
 software anthropology project clarification
-sketch up goals? 
+
+Week 2 Goals:
+40% done on codeacademy 
+Write some code and get used to the language (2 Hours)
+Assigned reading
+Look up possible issues we might have with the tantalus, find troubleshooting forums.  
